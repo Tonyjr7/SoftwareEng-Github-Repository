@@ -1,13 +1,14 @@
 import React, { use } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Card from './Card';
+import Board from './board';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Card/>
+    <Board />
   </React.StrictMode>
 );
 

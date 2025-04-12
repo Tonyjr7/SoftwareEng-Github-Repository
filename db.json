@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "body": "Two imprisoned men bond over a number of years...",
+      "author": "Frank Darabont"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "body": "The aging patriarch of an organized crime dynasty...",
+      "author": "Francis Ford Coppola"
+    }
+  ]
+} 

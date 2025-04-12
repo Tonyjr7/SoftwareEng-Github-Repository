@@ -1,14 +1,13 @@
 import './App.css';
-
-const handleClick = () => {
-  alert('Clicked!')
-}
+import Card from './Card';
+import Board from './board';
 
 const App = () => {
   return(
     <div className='App'>
-      <h1>Hello World</h1>
-      <button onClick={handleClick}>Click Me!</button>
+      <h1>Counter App</h1>
+      <Card />
+      <Board />
     </div>
   )
 }

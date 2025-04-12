@@ -1,0 +1,53 @@
+{
+  "blogs": [
+    {
+      "title": "Oblivious",
+      "body": "A thrilling story about a detective who loses his memory but must solve a case that's deeply personal. As he uncovers clues, he realizes he may be investigating himself.",
+      "author": "Joseph",
+      "id": 1
+    },
+    {
+      "title": "The Tudors", 
+      "body": "An epic historical drama following the tumultuous reign of Henry VIII and his six wives. Politics, romance, and betrayal intertwine in this royal saga.",
+      "author": "Shang Chi",
+      "id": 2
+    },
+    {
+      "title": "Mr Queen",
+      "body": "A modern-day chef finds his consciousness trapped in the body of a queen from Korea's Joseon period. Hilarity ensues as he navigates royal court life while trying to return to his time.", 
+      "author": "Temi",
+      "id": 3
+    },
+    {
+      "title": "The Last Kingdom",
+      "body": "Set in 9th century England, this series follows a Saxon boy raised by Vikings who must choose between his birth country and the people who raised him.",
+      "author": "Joseph",
+      "id": 4
+    },
+    {
+      "title": "Vincenzo",
+      "body": "An Italian mafia lawyer returns to his homeland of Korea, where he uses his skills to fight against corrupt corporations alongside a quirky law firm.",
+      "author": "Shang Chi",
+      "id": 5
+    },
+    {
+      "title": "Breaking Bad",
+      "body": "A high school chemistry teacher diagnosed with cancer turns to manufacturing drugs to secure his family's financial future, leading him down a dangerous path of crime.",
+      "author": "Joseph",
+      "id": 6
+    },
+    {
+      "title": "Stranger Things",
+      "body": "In a small town in the 1980s, a group of kids encounter supernatural forces and secret government exploits as they search for their missing friend.",
+      "author": "Temi",
+      "id": 7
+    },
+    {
+      "title": "The Crown",
+      "body": "A historical drama chronicling the life of Queen Elizabeth II and the events that shaped the second half of the twentieth century in the British monarchy.",
+      "author": "Shang Chi",
+      "id": 8
+    }
+    ]
+}
+
